@@ -1,1 +1,1 @@
-SStart to programme in C language
+Starting to programme in C language
