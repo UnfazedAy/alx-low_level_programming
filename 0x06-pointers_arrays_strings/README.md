@@ -1,1 +1,1 @@
-A readme on more pointers, arrays and strings
+More pointers, arrays and strings in C language
